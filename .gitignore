@@ -1,3 +1,7 @@
 IPO Data Analysis.csv
 Pre COVID Data 2014-19 Data Analysis.csv
 .ipynb_checkpoints
+venv
+app.py
+ipo_analysis_cleaned.csv
+requirements.txt
